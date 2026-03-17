@@ -1,15 +1,15 @@
-# cpp-learning
-C++ practice while learning programming fundamentals and data structures
-# C++ Learning
+## C++ Learning Projects
 
-This repository contains my C++ practice work while learning programming fundamentals and data structures.
+This repository contains programs developed while learning C++ fundamentals.
 
-## Topics
-- Variables and data types
+### Included Programs:
+- Calculator (switch statements, user input)
+- Cylinder to cube conversion (math and formulas)
+- Cookie sales analysis (file input and EOF loops)
+- Runner data analysis (2D arrays, functions, file processing)
+
+### Skills Demonstrated:
+- File handling (ifstream)
 - Loops and conditionals
-- Arrays
-- Functions
-- Basic algorithms
-
-## Purpose
-This work reflects my ongoing development in software programming as I build my skills.
+- Arrays and data structures
+- Function-based program design
